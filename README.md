@@ -1,16 +1,26 @@
-# genuicodex
+# Genuicodex
 
-A new Flutter project.
+A Flutter Material catalog app driven by a JSON component registry. The goal is to showcase every Material UI component listed in https://api.flutter.dev/flutter/material/material-library.html.
 
-## Getting Started
+## Features
+- JSON-driven catalog (assets/material_components.json)
+- Searchable, category-grouped UI
+- Detail view with documentation links
+- JSON Schema for the catalog format (schema/material_components.schema.json)
 
-This project is a starting point for a Flutter application.
+## Getting started
+This repository contains the app sources. Generate platform folders (excluding Web) before running:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter create . --platforms=android,ios,macos,windows,linux
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Repository layout
+- lib/: application source
+- assets/: component catalog JSON
+- schema/: JSON Schema for the catalog
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Licensing
+This repository is dual-licensed under MIT and Apache-2.0. See LICENSE-MIT and LICENSE-APACHE.
