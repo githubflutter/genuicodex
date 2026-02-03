@@ -22,5 +22,11 @@ flutter run
 - assets/: component catalog JSON
 - schema/: JSON Schema for the catalog
 
+## Regenerating the catalog
+The catalog JSON is derived from the Flutter Material library docs. To rebuild:
+
+1) Run tools/generate_catalog.py
+2) The output is written to assets/material_components.json
+
 ## Licensing
 This repository is dual-licensed under MIT and Apache-2.0. See LICENSE-MIT and LICENSE-APACHE.

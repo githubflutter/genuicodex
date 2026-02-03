@@ -1,0 +1,3071 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-02-03",
+  "source": "https://api.flutter.dev/flutter/material/",
+  "components": [
+    {
+      "id": "aboutdialog",
+      "name": "AboutDialog",
+      "category": "A",
+      "summary": "An about box. This is a dialog box with the application's icon, name, version number, and copyright, plus a button to show licenses for software used by the application.",
+      "docUrl": "https://api.flutter.devmaterial/AboutDialog-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "aboutlisttile",
+      "name": "AboutListTile",
+      "category": "A",
+      "summary": "A ListTile that shows an about box.",
+      "docUrl": "https://api.flutter.devmaterial/AboutListTile-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "actionchip",
+      "name": "ActionChip",
+      "category": "A",
+      "summary": "A Material Design action chip.",
+      "docUrl": "https://api.flutter.devmaterial/ActionChip-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "actionicontheme",
+      "name": "ActionIconTheme",
+      "category": "A",
+      "summary": "An inherited widget that overrides the default icon of BackButtonIcon, CloseButtonIcon, DrawerButtonIcon, and EndDrawerButtonIcon in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/ActionIconTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "actioniconthemedata",
+      "name": "ActionIconThemeData",
+      "category": "A",
+      "summary": "A ActionIconThemeData that overrides the default icons of BackButton, CloseButton, DrawerButton, and EndDrawerButton with ActionIconTheme.of or the overall Theme's ThemeData.actionIconTheme.",
+      "docUrl": "https://api.flutter.devmaterial/ActionIconThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "adaptation",
+      "name": "Adaptation",
+      "category": "A",
+      "summary": "Defines a customized theme for components with an adaptive factory constructor.",
+      "docUrl": "https://api.flutter.devmaterial/Adaptation-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "adaptivetextselectiontoolbar",
+      "name": "AdaptiveTextSelectionToolbar",
+      "category": "A",
+      "summary": "The default context menu for text selection for the current platform.",
+      "docUrl": "https://api.flutter.devmaterial/AdaptiveTextSelectionToolbar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "alertdialog",
+      "name": "AlertDialog",
+      "category": "A",
+      "summary": "A Material Design alert dialog.",
+      "docUrl": "https://api.flutter.devmaterial/AlertDialog-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "animatedicon",
+      "name": "AnimatedIcon",
+      "category": "A",
+      "summary": "Shows an animated icon at a given animation progress.",
+      "docUrl": "https://api.flutter.devmaterial/AnimatedIcon-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "animatedicondata",
+      "name": "AnimatedIconData",
+      "category": "A",
+      "summary": "Vector graphics data for icons used by AnimatedIcon.",
+      "docUrl": "https://api.flutter.devmaterial/AnimatedIconData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "animatedicons",
+      "name": "AnimatedIcons",
+      "category": "A",
+      "summary": "Identifier for the supported Material Design animated icons.",
+      "docUrl": "https://api.flutter.devmaterial/AnimatedIcons-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "animatedtheme",
+      "name": "AnimatedTheme",
+      "category": "A",
+      "summary": "Animated version of Theme which automatically transitions the colors, etc, over a given duration whenever the given theme changes.",
+      "docUrl": "https://api.flutter.devmaterial/AnimatedTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "appbar",
+      "name": "AppBar",
+      "category": "A",
+      "summary": "A Material Design app bar.",
+      "docUrl": "https://api.flutter.devmaterial/AppBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "appbartheme",
+      "name": "AppBarTheme",
+      "category": "A",
+      "summary": "Defines default property values for descendant AppBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/AppBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "appbarthemedata",
+      "name": "AppBarThemeData",
+      "category": "A",
+      "summary": "Defines default property values for descendant AppBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/AppBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "autocomplete",
+      "name": "Autocomplete",
+      "category": "A",
+      "summary": "A widget for helping the user make a selection by entering some text and choosing from among a list of options.",
+      "docUrl": "https://api.flutter.devmaterial/Autocomplete-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "backbutton",
+      "name": "BackButton",
+      "category": "B",
+      "summary": "A Material Design back icon button.",
+      "docUrl": "https://api.flutter.devmaterial/BackButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "backbuttonicon",
+      "name": "BackButtonIcon",
+      "category": "B",
+      "summary": "A \"back\" icon that's appropriate for the current TargetPlatform.",
+      "docUrl": "https://api.flutter.devmaterial/BackButtonIcon-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "badge",
+      "name": "Badge",
+      "category": "B",
+      "summary": "A Material Design \"badge\".",
+      "docUrl": "https://api.flutter.devmaterial/Badge-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "badgetheme",
+      "name": "BadgeTheme",
+      "category": "B",
+      "summary": "An inherited widget that overrides the default color style, and size parameters for Badges in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/BadgeTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "badgethemedata",
+      "name": "BadgeThemeData",
+      "category": "B",
+      "summary": "Overrides the default properties values for descendant Badge widgets.",
+      "docUrl": "https://api.flutter.devmaterial/BadgeThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomappbar",
+      "name": "BottomAppBar",
+      "category": "B",
+      "summary": "A container that is typically used with Scaffold.bottomNavigationBar.",
+      "docUrl": "https://api.flutter.devmaterial/BottomAppBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomappbartheme",
+      "name": "BottomAppBarTheme",
+      "category": "B",
+      "summary": "Defines default property values for descendant BottomAppBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/BottomAppBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomappbarthemedata",
+      "name": "BottomAppBarThemeData",
+      "category": "B",
+      "summary": "Defines default property values for descendant BottomAppBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/BottomAppBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomnavigationbar",
+      "name": "BottomNavigationBar",
+      "category": "B",
+      "summary": "A material widget that's displayed at the bottom of an app for selecting among a small number of views, typically between three and five.",
+      "docUrl": "https://api.flutter.devmaterial/BottomNavigationBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomnavigationbartheme",
+      "name": "BottomNavigationBarTheme",
+      "category": "B",
+      "summary": "Applies a bottom navigation bar theme to descendant BottomNavigationBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/BottomNavigationBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomnavigationbarthemedata",
+      "name": "BottomNavigationBarThemeData",
+      "category": "B",
+      "summary": "Defines default property values for descendant BottomNavigationBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/BottomNavigationBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomsheet",
+      "name": "BottomSheet",
+      "category": "B",
+      "summary": "A Material Design bottom sheet.",
+      "docUrl": "https://api.flutter.devmaterial/BottomSheet-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "bottomsheetthemedata",
+      "name": "BottomSheetThemeData",
+      "category": "B",
+      "summary": "Defines default property values for BottomSheet's Material.",
+      "docUrl": "https://api.flutter.devmaterial/BottomSheetThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttonbar",
+      "name": "ButtonBar",
+      "category": "B",
+      "summary": "An end-aligned row of buttons, laying out into a column if there is not enough horizontal space.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttonbartheme",
+      "name": "ButtonBarTheme",
+      "category": "B",
+      "summary": "Applies a button bar theme to descendant ButtonBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttonbarthemedata",
+      "name": "ButtonBarThemeData",
+      "category": "B",
+      "summary": "Defines the visual properties of ButtonBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttonsegment",
+      "name": "ButtonSegment",
+      "category": "B",
+      "summary": "Data describing a segment of a SegmentedButton.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonSegment-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttonstyle",
+      "name": "ButtonStyle",
+      "category": "B",
+      "summary": "The visual properties that most buttons have in common.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonStyle-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttonstylebutton",
+      "name": "ButtonStyleButton",
+      "category": "B",
+      "summary": "The base StatefulWidget class for buttons whose style is defined by a ButtonStyle object.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonStyleButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttontheme",
+      "name": "ButtonTheme",
+      "category": "B",
+      "summary": "Used with ButtonThemeData to configure the color and geometry of buttons.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "buttonthemedata",
+      "name": "ButtonThemeData",
+      "category": "B",
+      "summary": "Used with ButtonTheme to configure the color and geometry of buttons.",
+      "docUrl": "https://api.flutter.devmaterial/ButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "calendardatepicker",
+      "name": "CalendarDatePicker",
+      "category": "C",
+      "summary": "Displays a grid of days for a given month and allows the user to select a date.",
+      "docUrl": "https://api.flutter.devmaterial/CalendarDatePicker-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "calendardelegate",
+      "name": "CalendarDelegate",
+      "category": "C",
+      "summary": "Controls the calendar system used in the date picker.",
+      "docUrl": "https://api.flutter.devmaterial/CalendarDelegate-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "card",
+      "name": "Card",
+      "category": "C",
+      "summary": "A Material Design card: a panel with slightly rounded corners and an elevation shadow.",
+      "docUrl": "https://api.flutter.devmaterial/Card-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "cardtheme",
+      "name": "CardTheme",
+      "category": "C",
+      "summary": "Defines default property values for descendant Card widgets.",
+      "docUrl": "https://api.flutter.devmaterial/CardTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "cardthemedata",
+      "name": "CardThemeData",
+      "category": "C",
+      "summary": "Defines default property values for descendant Card widgets.",
+      "docUrl": "https://api.flutter.devmaterial/CardThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "carouselcontroller",
+      "name": "CarouselController",
+      "category": "C",
+      "summary": "A controller for CarouselView.",
+      "docUrl": "https://api.flutter.devmaterial/CarouselController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "carouselscrollphysics",
+      "name": "CarouselScrollPhysics",
+      "category": "C",
+      "summary": "Scroll physics used by a CarouselView.",
+      "docUrl": "https://api.flutter.devmaterial/CarouselScrollPhysics-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "carouselview",
+      "name": "CarouselView",
+      "category": "C",
+      "summary": "A Material Design carousel widget.",
+      "docUrl": "https://api.flutter.devmaterial/CarouselView-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "carouselviewtheme",
+      "name": "CarouselViewTheme",
+      "category": "C",
+      "summary": "Applies a carousel theme to descendant CarouselView widgets.",
+      "docUrl": "https://api.flutter.devmaterial/CarouselViewTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "carouselviewthemedata",
+      "name": "CarouselViewThemeData",
+      "category": "C",
+      "summary": "Defines default property values for descendant CarouselView widgets.",
+      "docUrl": "https://api.flutter.devmaterial/CarouselViewThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "checkbox",
+      "name": "Checkbox",
+      "category": "C",
+      "summary": "A Material Design checkbox.",
+      "docUrl": "https://api.flutter.devmaterial/Checkbox-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "checkboxlisttile",
+      "name": "CheckboxListTile",
+      "category": "C",
+      "summary": "A ListTile with a Checkbox. In other words, a checkbox with a label.",
+      "docUrl": "https://api.flutter.devmaterial/CheckboxListTile-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "checkboxmenubutton",
+      "name": "CheckboxMenuButton",
+      "category": "C",
+      "summary": "A menu item that combines a Checkbox widget with a MenuItemButton.",
+      "docUrl": "https://api.flutter.devmaterial/CheckboxMenuButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "checkboxtheme",
+      "name": "CheckboxTheme",
+      "category": "C",
+      "summary": "Applies a checkbox theme to descendant Checkbox widgets.",
+      "docUrl": "https://api.flutter.devmaterial/CheckboxTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "checkboxthemedata",
+      "name": "CheckboxThemeData",
+      "category": "C",
+      "summary": "Defines default property values for descendant Checkbox widgets.",
+      "docUrl": "https://api.flutter.devmaterial/CheckboxThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "checkedpopupmenuitem",
+      "name": "CheckedPopupMenuItem",
+      "category": "C",
+      "summary": "An item with a checkmark in a Material Design popup menu.",
+      "docUrl": "https://api.flutter.devmaterial/CheckedPopupMenuItem-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "checkmarkablechipattributes",
+      "name": "CheckmarkableChipAttributes",
+      "category": "C",
+      "summary": "An interface for Material Design chips that can have check marks.",
+      "docUrl": "https://api.flutter.devmaterial/CheckmarkableChipAttributes-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "chip",
+      "name": "Chip",
+      "category": "C",
+      "summary": "A Material Design chip.",
+      "docUrl": "https://api.flutter.devmaterial/Chip-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "chipanimationstyle",
+      "name": "ChipAnimationStyle",
+      "category": "C",
+      "summary": "A helper class that overrides the default chip animation parameters.",
+      "docUrl": "https://api.flutter.devmaterial/ChipAnimationStyle-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "chipattributes",
+      "name": "ChipAttributes",
+      "category": "C",
+      "summary": "An interface defining the base attributes for a Material Design chip.",
+      "docUrl": "https://api.flutter.devmaterial/ChipAttributes-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "chiptheme",
+      "name": "ChipTheme",
+      "category": "C",
+      "summary": "Applies a chip theme to descendant RawChip-based widgets, like Chip, InputChip, ChoiceChip, FilterChip, and ActionChip.",
+      "docUrl": "https://api.flutter.devmaterial/ChipTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "chipthemedata",
+      "name": "ChipThemeData",
+      "category": "C",
+      "summary": "Holds the color, shape, and text styles for a Material Design chip theme.",
+      "docUrl": "https://api.flutter.devmaterial/ChipThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "choicechip",
+      "name": "ChoiceChip",
+      "category": "C",
+      "summary": "A Material Design choice chip.",
+      "docUrl": "https://api.flutter.devmaterial/ChoiceChip-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "circleavatar",
+      "name": "CircleAvatar",
+      "category": "C",
+      "summary": "A circle that represents a user.",
+      "docUrl": "https://api.flutter.devmaterial/CircleAvatar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "circularprogressindicator",
+      "name": "CircularProgressIndicator",
+      "category": "C",
+      "summary": "A Material Design circular progress indicator, which spins to indicate that the application is busy.",
+      "docUrl": "https://api.flutter.devmaterial/CircularProgressIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "closebutton",
+      "name": "CloseButton",
+      "category": "C",
+      "summary": "A Material Design close icon button.",
+      "docUrl": "https://api.flutter.devmaterial/CloseButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "closebuttonicon",
+      "name": "CloseButtonIcon",
+      "category": "C",
+      "summary": "A \"close\" icon that's appropriate for the current TargetPlatform.",
+      "docUrl": "https://api.flutter.devmaterial/CloseButtonIcon-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "colors",
+      "name": "Colors",
+      "category": "C",
+      "summary": "Color and ColorSwatch constants which represent Material design's color palette.",
+      "docUrl": "https://api.flutter.devmaterial/Colors-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "colorscheme",
+      "name": "ColorScheme",
+      "category": "C",
+      "summary": "A set of 45 colors based on the Material spec that can be used to configure the color properties of most components.",
+      "docUrl": "https://api.flutter.devmaterial/ColorScheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "controlsdetails",
+      "name": "ControlsDetails",
+      "category": "C",
+      "summary": "Container for all the information necessary to build a Stepper widget's forward and backward controls for any given step.",
+      "docUrl": "https://api.flutter.devmaterial/ControlsDetails-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "cupertinobasedmaterialthemedata",
+      "name": "CupertinoBasedMaterialThemeData",
+      "category": "C",
+      "summary": "A class for creating a Material theme with a color scheme based off of the colors from a CupertinoThemeData. This is intended to be used only in the case when a Material widget is unable to find a Material theme in the tree, but is able to find a Cupertino theme. Most often this will occur when a Material widget is used inside of a CupertinoApp.",
+      "docUrl": "https://api.flutter.devmaterial/CupertinoBasedMaterialThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "cupertinopagetransitionsbuilder",
+      "name": "CupertinoPageTransitionsBuilder",
+      "category": "C",
+      "summary": "Used by PageTransitionsTheme to define a horizontal MaterialPageRoute page transition animation that matches native iOS page transitions.",
+      "docUrl": "https://api.flutter.devmaterial/CupertinoPageTransitionsBuilder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datacell",
+      "name": "DataCell",
+      "category": "D",
+      "summary": "The data for a cell of a DataTable.",
+      "docUrl": "https://api.flutter.devmaterial/DataCell-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datacolumn",
+      "name": "DataColumn",
+      "category": "D",
+      "summary": "Column configuration for a DataTable.",
+      "docUrl": "https://api.flutter.devmaterial/DataColumn-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datarow",
+      "name": "DataRow",
+      "category": "D",
+      "summary": "Row configuration and cell data for a DataTable.",
+      "docUrl": "https://api.flutter.devmaterial/DataRow-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datatable",
+      "name": "DataTable",
+      "category": "D",
+      "summary": "A data table that follows the Material 2 design specification.",
+      "docUrl": "https://api.flutter.devmaterial/DataTable-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datatablesource",
+      "name": "DataTableSource",
+      "category": "D",
+      "summary": "A data source for obtaining row data for PaginatedDataTable objects.",
+      "docUrl": "https://api.flutter.devmaterial/DataTableSource-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datatabletheme",
+      "name": "DataTableTheme",
+      "category": "D",
+      "summary": "Applies a data table theme to descendant DataTable widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DataTableTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datatablethemedata",
+      "name": "DataTableThemeData",
+      "category": "D",
+      "summary": "Defines default property values for descendant DataTable widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DataTableThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datepickerdialog",
+      "name": "DatePickerDialog",
+      "category": "D",
+      "summary": "A Material-style date picker dialog.",
+      "docUrl": "https://api.flutter.devmaterial/DatePickerDialog-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datepickertheme",
+      "name": "DatePickerTheme",
+      "category": "D",
+      "summary": "An inherited widget that defines the visual properties for DatePickerDialogs in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/DatePickerTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datepickerthemedata",
+      "name": "DatePickerThemeData",
+      "category": "D",
+      "summary": "Overrides the default values of visual properties for descendant DatePickerDialog widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DatePickerThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "daterangepickerdialog",
+      "name": "DateRangePickerDialog",
+      "category": "D",
+      "summary": "A Material-style date range picker dialog.",
+      "docUrl": "https://api.flutter.devmaterial/DateRangePickerDialog-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "datetimerange",
+      "name": "DateTimeRange",
+      "category": "D",
+      "summary": "Encapsulates a start and end DateTime that represent the range of dates.",
+      "docUrl": "https://api.flutter.devmaterial/DateTimeRange-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dateutils",
+      "name": "DateUtils",
+      "category": "D",
+      "summary": "Utility functions for working with dates.",
+      "docUrl": "https://api.flutter.devmaterial/DateUtils-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "defaultmateriallocalizations",
+      "name": "DefaultMaterialLocalizations",
+      "category": "D",
+      "summary": "US English strings for the material widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DefaultMaterialLocalizations-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "defaulttabcontroller",
+      "name": "DefaultTabController",
+      "category": "D",
+      "summary": "The TabController for descendant widgets that don't specify one explicitly.",
+      "docUrl": "https://api.flutter.devmaterial/DefaultTabController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "deletablechipattributes",
+      "name": "DeletableChipAttributes",
+      "category": "D",
+      "summary": "An interface for Material Design chips that can be deleted.",
+      "docUrl": "https://api.flutter.devmaterial/DeletableChipAttributes-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "desktoptextselectioncontrols",
+      "name": "DesktopTextSelectionControls",
+      "category": "D",
+      "summary": "Desktop Material styled text selection controls.",
+      "docUrl": "https://api.flutter.devmaterial/DesktopTextSelectionControls-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "desktoptextselectiontoolbar",
+      "name": "DesktopTextSelectionToolbar",
+      "category": "D",
+      "summary": "A Material-style desktop text selection toolbar.",
+      "docUrl": "https://api.flutter.devmaterial/DesktopTextSelectionToolbar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "desktoptextselectiontoolbarbutton",
+      "name": "DesktopTextSelectionToolbarButton",
+      "category": "D",
+      "summary": "A TextButton for the Material desktop text selection toolbar.",
+      "docUrl": "https://api.flutter.devmaterial/DesktopTextSelectionToolbarButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dialog",
+      "name": "Dialog",
+      "category": "D",
+      "summary": "A Material Design dialog.",
+      "docUrl": "https://api.flutter.devmaterial/Dialog-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dialogroute",
+      "name": "DialogRoute",
+      "category": "D",
+      "summary": "A dialog route with Material entrance and exit animations, modal barrier color, and modal barrier behavior (dialog is dismissible with a tap on the barrier).",
+      "docUrl": "https://api.flutter.devmaterial/DialogRoute-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dialogtheme",
+      "name": "DialogTheme",
+      "category": "D",
+      "summary": "Defines a theme for Dialog widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DialogTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dialogthemedata",
+      "name": "DialogThemeData",
+      "category": "D",
+      "summary": "Defines default property values for descendant Dialog widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DialogThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "disabledchipattributes",
+      "name": "DisabledChipAttributes",
+      "category": "D",
+      "summary": "An interface for Material Design chips that can be enabled and disabled.",
+      "docUrl": "https://api.flutter.devmaterial/DisabledChipAttributes-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "divider",
+      "name": "Divider",
+      "category": "D",
+      "summary": "A thin horizontal line, with padding on either side.",
+      "docUrl": "https://api.flutter.devmaterial/Divider-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dividertheme",
+      "name": "DividerTheme",
+      "category": "D",
+      "summary": "An inherited widget that defines the configuration for Dividers, VerticalDividers, dividers between ListTiles, and dividers between rows in DataTables in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/DividerTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dividerthemedata",
+      "name": "DividerThemeData",
+      "category": "D",
+      "summary": "Defines the visual properties of Divider, VerticalDivider, dividers between ListTiles, and dividers between rows in DataTables.",
+      "docUrl": "https://api.flutter.devmaterial/DividerThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawer",
+      "name": "Drawer",
+      "category": "D",
+      "summary": "A Material Design panel that slides in horizontally from the edge of a Scaffold to show navigation links in an application.",
+      "docUrl": "https://api.flutter.devmaterial/Drawer-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawerbutton",
+      "name": "DrawerButton",
+      "category": "D",
+      "summary": "A Material Design drawer icon button.",
+      "docUrl": "https://api.flutter.devmaterial/DrawerButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawerbuttonicon",
+      "name": "DrawerButtonIcon",
+      "category": "D",
+      "summary": "A \"drawer\" icon that's appropriate for the current TargetPlatform.",
+      "docUrl": "https://api.flutter.devmaterial/DrawerButtonIcon-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawercontroller",
+      "name": "DrawerController",
+      "category": "D",
+      "summary": "Provides interactive behavior for Drawer widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DrawerController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawercontrollerstate",
+      "name": "DrawerControllerState",
+      "category": "D",
+      "summary": "State for a DrawerController.",
+      "docUrl": "https://api.flutter.devmaterial/DrawerControllerState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawerheader",
+      "name": "DrawerHeader",
+      "category": "D",
+      "summary": "The top-most region of a Material Design drawer. The header's child widget, if any, is placed inside a Container whose decoration can be passed as an argument, inset by the given padding.",
+      "docUrl": "https://api.flutter.devmaterial/DrawerHeader-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawertheme",
+      "name": "DrawerTheme",
+      "category": "D",
+      "summary": "An inherited widget that defines visual properties for Drawers in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/DrawerTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "drawerthemedata",
+      "name": "DrawerThemeData",
+      "category": "D",
+      "summary": "Defines default property values for descendant Drawer widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DrawerThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownbutton",
+      "name": "DropdownButton",
+      "category": "D",
+      "summary": "A Material Design button for selecting from a list of items.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownbuttonformfield",
+      "name": "DropdownButtonFormField",
+      "category": "D",
+      "summary": "A FormField that contains a DropdownButton.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownButtonFormField-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownbuttonhideunderline",
+      "name": "DropdownButtonHideUnderline",
+      "category": "D",
+      "summary": "An inherited widget that causes any descendant DropdownButton widgets to not include their regular underline.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownButtonHideUnderline-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownmenu",
+      "name": "DropdownMenu",
+      "category": "D",
+      "summary": "A dropdown menu that can be opened from a TextField. The selected menu item is displayed in that field.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownMenu-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownmenuentry",
+      "name": "DropdownMenuEntry",
+      "category": "D",
+      "summary": "Defines a DropdownMenu menu button that represents one item view in the menu.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownMenuEntry-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownmenuformfield",
+      "name": "DropdownMenuFormField",
+      "category": "D",
+      "summary": "A FormField that contains a DropdownMenu.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownMenuFormField-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownmenuitem",
+      "name": "DropdownMenuItem",
+      "category": "D",
+      "summary": "An item in a menu created by a DropdownButton.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownMenuItem-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownmenutheme",
+      "name": "DropdownMenuTheme",
+      "category": "D",
+      "summary": "An inherited widget that defines the visual properties for DropdownMenus in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownMenuTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropdownmenuthemedata",
+      "name": "DropdownMenuThemeData",
+      "category": "D",
+      "summary": "Overrides the default values of visual properties for descendant DropdownMenu widgets.",
+      "docUrl": "https://api.flutter.devmaterial/DropdownMenuThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "droprangeslidervalueindicatorshape",
+      "name": "DropRangeSliderValueIndicatorShape",
+      "category": "D",
+      "summary": "The shape of a Material 3 RangeSlider's value indicators.",
+      "docUrl": "https://api.flutter.devmaterial/DropRangeSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "dropslidervalueindicatorshape",
+      "name": "DropSliderValueIndicatorShape",
+      "category": "D",
+      "summary": "The default shape of a Material 3 Slider's value indicator.",
+      "docUrl": "https://api.flutter.devmaterial/DropSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "durations",
+      "name": "Durations",
+      "category": "D",
+      "summary": "The set of durations in the Material specification.",
+      "docUrl": "https://api.flutter.devmaterial/Durations-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "easing",
+      "name": "Easing",
+      "category": "E",
+      "summary": "The set of easing curves in the Material specification.",
+      "docUrl": "https://api.flutter.devmaterial/Easing-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "elevatedbutton",
+      "name": "ElevatedButton",
+      "category": "E",
+      "summary": "A Material Design \"elevated button\".",
+      "docUrl": "https://api.flutter.devmaterial/ElevatedButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "elevatedbuttontheme",
+      "name": "ElevatedButtonTheme",
+      "category": "E",
+      "summary": "Overrides the default ButtonStyle of its ElevatedButton descendants.",
+      "docUrl": "https://api.flutter.devmaterial/ElevatedButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "elevatedbuttonthemedata",
+      "name": "ElevatedButtonThemeData",
+      "category": "E",
+      "summary": "A ButtonStyle that overrides the default appearance of ElevatedButtons when it's used with ElevatedButtonTheme or with the overall Theme's ThemeData.elevatedButtonTheme.",
+      "docUrl": "https://api.flutter.devmaterial/ElevatedButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "elevationoverlay",
+      "name": "ElevationOverlay",
+      "category": "E",
+      "summary": "A utility class for dealing with the overlay color needed to indicate elevation of surfaces.",
+      "docUrl": "https://api.flutter.devmaterial/ElevationOverlay-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "enddrawerbutton",
+      "name": "EndDrawerButton",
+      "category": "E",
+      "summary": "A Material Design end drawer icon button.",
+      "docUrl": "https://api.flutter.devmaterial/EndDrawerButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "enddrawerbuttonicon",
+      "name": "EndDrawerButtonIcon",
+      "category": "E",
+      "summary": "A \"end drawer\" icon that's appropriate for the current TargetPlatform.",
+      "docUrl": "https://api.flutter.devmaterial/EndDrawerButtonIcon-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "expandicon",
+      "name": "ExpandIcon",
+      "category": "E",
+      "summary": "A widget representing a rotating expand/collapse button. The icon rotates 180 degrees when pressed, then reverts the animation on a second press. The underlying icon is Icons.expand_more.",
+      "docUrl": "https://api.flutter.devmaterial/ExpandIcon-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "expansionpanel",
+      "name": "ExpansionPanel",
+      "category": "E",
+      "summary": "A material expansion panel. It has a header and a body and can be either expanded or collapsed. The body of the panel is only visible when it is expanded.",
+      "docUrl": "https://api.flutter.devmaterial/ExpansionPanel-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "expansionpanellist",
+      "name": "ExpansionPanelList",
+      "category": "E",
+      "summary": "A material expansion panel list that lays out its children and animates expansions.",
+      "docUrl": "https://api.flutter.devmaterial/ExpansionPanelList-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "expansionpanelradio",
+      "name": "ExpansionPanelRadio",
+      "category": "E",
+      "summary": "An expansion panel that allows for radio-like functionality. This means that at any given time, at most, one ExpansionPanelRadio can remain expanded.",
+      "docUrl": "https://api.flutter.devmaterial/ExpansionPanelRadio-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "expansiontile",
+      "name": "ExpansionTile",
+      "category": "E",
+      "summary": "A single-line ListTile with an expansion arrow icon that expands or collapses the tile to reveal or hide the children.",
+      "docUrl": "https://api.flutter.devmaterial/ExpansionTile-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "expansiontiletheme",
+      "name": "ExpansionTileTheme",
+      "category": "E",
+      "summary": "Overrides the default ExpansionTileTheme of its ExpansionTile descendants.",
+      "docUrl": "https://api.flutter.devmaterial/ExpansionTileTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "expansiontilethemedata",
+      "name": "ExpansionTileThemeData",
+      "category": "E",
+      "summary": "Used with ExpansionTileTheme to define default property values for descendant ExpansionTile widgets.",
+      "docUrl": "https://api.flutter.devmaterial/ExpansionTileThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "fadeforwardspagetransitionsbuilder",
+      "name": "FadeForwardsPageTransitionsBuilder",
+      "category": "F",
+      "summary": "Used by PageTransitionsTheme to define a horizontal MaterialPageRoute page transition animation that looks like the default page transition used on Android U.",
+      "docUrl": "https://api.flutter.devmaterial/FadeForwardsPageTransitionsBuilder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "fadeupwardspagetransitionsbuilder",
+      "name": "FadeUpwardsPageTransitionsBuilder",
+      "category": "F",
+      "summary": "Used by PageTransitionsTheme to define a vertically fading MaterialPageRoute page transition animation that looks like the default page transition used on Android O.",
+      "docUrl": "https://api.flutter.devmaterial/FadeUpwardsPageTransitionsBuilder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "filledbutton",
+      "name": "FilledButton",
+      "category": "F",
+      "summary": "A Material Design filled button.",
+      "docUrl": "https://api.flutter.devmaterial/FilledButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "filledbuttontheme",
+      "name": "FilledButtonTheme",
+      "category": "F",
+      "summary": "Overrides the default ButtonStyle of its FilledButton descendants.",
+      "docUrl": "https://api.flutter.devmaterial/FilledButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "filledbuttonthemedata",
+      "name": "FilledButtonThemeData",
+      "category": "F",
+      "summary": "A ButtonStyle that overrides the default appearance of FilledButtons when it's used with FilledButtonTheme or with the overall Theme's ThemeData.filledButtonTheme.",
+      "docUrl": "https://api.flutter.devmaterial/FilledButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "filterchip",
+      "name": "FilterChip",
+      "category": "F",
+      "summary": "A Material Design filter chip.",
+      "docUrl": "https://api.flutter.devmaterial/FilterChip-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "flexiblespacebar",
+      "name": "FlexibleSpaceBar",
+      "category": "F",
+      "summary": "The part of a Material Design AppBar that expands, collapses, and stretches.",
+      "docUrl": "https://api.flutter.devmaterial/FlexibleSpaceBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "flexiblespacebarsettings",
+      "name": "FlexibleSpaceBarSettings",
+      "category": "F",
+      "summary": "Provides sizing and opacity information to a FlexibleSpaceBar.",
+      "docUrl": "https://api.flutter.devmaterial/FlexibleSpaceBarSettings-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "floatingactionbutton",
+      "name": "FloatingActionButton",
+      "category": "F",
+      "summary": "A Material Design floating action button.",
+      "docUrl": "https://api.flutter.devmaterial/FloatingActionButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "floatingactionbuttonanimator",
+      "name": "FloatingActionButtonAnimator",
+      "category": "F",
+      "summary": "Provider of animations to move the FloatingActionButton between FloatingActionButtonLocations.",
+      "docUrl": "https://api.flutter.devmaterial/FloatingActionButtonAnimator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "floatingactionbuttonlocation",
+      "name": "FloatingActionButtonLocation",
+      "category": "F",
+      "summary": "An object that defines a position for the FloatingActionButton based on the Scaffold's ScaffoldPrelayoutGeometry.",
+      "docUrl": "https://api.flutter.devmaterial/FloatingActionButtonLocation-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "floatingactionbuttonthemedata",
+      "name": "FloatingActionButtonThemeData",
+      "category": "F",
+      "summary": "Defines default property values for descendant FloatingActionButton widgets.",
+      "docUrl": "https://api.flutter.devmaterial/FloatingActionButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "floatinglabelalignment",
+      "name": "FloatingLabelAlignment",
+      "category": "F",
+      "summary": "Defines where the floating label should be displayed within an InputDecorator.",
+      "docUrl": "https://api.flutter.devmaterial/FloatingLabelAlignment-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "gappedrangeslidertrackshape",
+      "name": "GappedRangeSliderTrackShape",
+      "category": "G",
+      "summary": "The GappedRangeSliderTrackShape consists of active and inactive tracks. The active track uses the SliderThemeData.activeTrackColor and the inactive tracks uses the SliderThemeData.inactiveTrackColor.",
+      "docUrl": "https://api.flutter.devmaterial/GappedRangeSliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "gappedslidertrackshape",
+      "name": "GappedSliderTrackShape",
+      "category": "G",
+      "summary": "The gapped shape of a Slider's track.",
+      "docUrl": "https://api.flutter.devmaterial/GappedSliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "gregoriancalendardelegate",
+      "name": "GregorianCalendarDelegate",
+      "category": "G",
+      "summary": "A CalendarDelegate implementation for the Gregorian calendar system.",
+      "docUrl": "https://api.flutter.devmaterial/GregorianCalendarDelegate-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "gridtile",
+      "name": "GridTile",
+      "category": "G",
+      "summary": "A tile in a Material Design grid list.",
+      "docUrl": "https://api.flutter.devmaterial/GridTile-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "gridtilebar",
+      "name": "GridTileBar",
+      "category": "G",
+      "summary": "A header used in a Material Design GridTile.",
+      "docUrl": "https://api.flutter.devmaterial/GridTileBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "handlerangesliderthumbshape",
+      "name": "HandleRangeSliderThumbShape",
+      "category": "H",
+      "summary": "The bar shape of RangeSlider's thumbs.",
+      "docUrl": "https://api.flutter.devmaterial/HandleRangeSliderThumbShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "handlethumbshape",
+      "name": "HandleThumbShape",
+      "category": "H",
+      "summary": "The bar shape of a Slider's thumb.",
+      "docUrl": "https://api.flutter.devmaterial/HandleThumbShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "iconbutton",
+      "name": "IconButton",
+      "category": "I",
+      "summary": "A Material Design icon button.",
+      "docUrl": "https://api.flutter.devmaterial/IconButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "iconbuttontheme",
+      "name": "IconButtonTheme",
+      "category": "I",
+      "summary": "Overrides the default ButtonStyle of its IconButton descendants.",
+      "docUrl": "https://api.flutter.devmaterial/IconButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "iconbuttonthemedata",
+      "name": "IconButtonThemeData",
+      "category": "I",
+      "summary": "A ButtonStyle that overrides the default appearance of IconButtons when it's used with the IconButton, the IconButtonTheme or the overall Theme's ThemeData.iconButtonTheme.",
+      "docUrl": "https://api.flutter.devmaterial/IconButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "icons",
+      "name": "Icons",
+      "category": "I",
+      "summary": "Identifiers for the supported Material Icons.",
+      "docUrl": "https://api.flutter.devmaterial/Icons-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "ink",
+      "name": "Ink",
+      "category": "I",
+      "summary": "A convenience widget for drawing images and other decorations on Material widgets, so that InkWell and InkResponse splashes will render over them.",
+      "docUrl": "https://api.flutter.devmaterial/Ink-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inkdecoration",
+      "name": "InkDecoration",
+      "category": "I",
+      "summary": "A decoration on a part of a Material.",
+      "docUrl": "https://api.flutter.devmaterial/InkDecoration-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inkfeature",
+      "name": "InkFeature",
+      "category": "I",
+      "summary": "A visual reaction on a piece of Material.",
+      "docUrl": "https://api.flutter.devmaterial/InkFeature-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inkhighlight",
+      "name": "InkHighlight",
+      "category": "I",
+      "summary": "A visual emphasis on a part of a Material receiving user interaction.",
+      "docUrl": "https://api.flutter.devmaterial/InkHighlight-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inkresponse",
+      "name": "InkResponse",
+      "category": "I",
+      "summary": "An area of a Material that responds to touch. Has a configurable shape and can be configured to clip splashes that extend outside its bounds or not.",
+      "docUrl": "https://api.flutter.devmaterial/InkResponse-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inkripple",
+      "name": "InkRipple",
+      "category": "I",
+      "summary": "A visual reaction on a piece of Material to user input.",
+      "docUrl": "https://api.flutter.devmaterial/InkRipple-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inksparkle",
+      "name": "InkSparkle",
+      "category": "I",
+      "summary": "Begin a Material 3 ink sparkle ripple, centered at the tap or click position relative to the referenceBox.",
+      "docUrl": "https://api.flutter.devmaterial/InkSparkle-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inksplash",
+      "name": "InkSplash",
+      "category": "I",
+      "summary": "A visual reaction on a piece of Material to user input.",
+      "docUrl": "https://api.flutter.devmaterial/InkSplash-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inkwell",
+      "name": "InkWell",
+      "category": "I",
+      "summary": "A rectangular area of a Material that responds to touch.",
+      "docUrl": "https://api.flutter.devmaterial/InkWell-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inputborder",
+      "name": "InputBorder",
+      "category": "I",
+      "summary": "Defines the appearance of an InputDecorator's border.",
+      "docUrl": "https://api.flutter.devmaterial/InputBorder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inputchip",
+      "name": "InputChip",
+      "category": "I",
+      "summary": "A Material Design input chip.",
+      "docUrl": "https://api.flutter.devmaterial/InputChip-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inputdatepickerformfield",
+      "name": "InputDatePickerFormField",
+      "category": "I",
+      "summary": "A TextFormField configured to accept and validate a date entered by a user.",
+      "docUrl": "https://api.flutter.devmaterial/InputDatePickerFormField-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inputdecoration",
+      "name": "InputDecoration",
+      "category": "I",
+      "summary": "The border, labels, icons, and styles used to decorate a Material Design text field.",
+      "docUrl": "https://api.flutter.devmaterial/InputDecoration-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inputdecorationtheme",
+      "name": "InputDecorationTheme",
+      "category": "I",
+      "summary": "Defines the default appearance of InputDecorators.",
+      "docUrl": "https://api.flutter.devmaterial/InputDecorationTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inputdecorationthemedata",
+      "name": "InputDecorationThemeData",
+      "category": "I",
+      "summary": "Defines the default appearance of InputDecorators.",
+      "docUrl": "https://api.flutter.devmaterial/InputDecorationThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "inputdecorator",
+      "name": "InputDecorator",
+      "category": "I",
+      "summary": "Defines the appearance of a Material Design text field.",
+      "docUrl": "https://api.flutter.devmaterial/InputDecorator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "interactiveinkfeature",
+      "name": "InteractiveInkFeature",
+      "category": "I",
+      "summary": "An ink feature that displays a color \"splash\" in response to a user gesture that can be confirmed or canceled.",
+      "docUrl": "https://api.flutter.devmaterial/InteractiveInkFeature-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "interactiveinkfeaturefactory",
+      "name": "InteractiveInkFeatureFactory",
+      "category": "I",
+      "summary": "An encapsulation of an InteractiveInkFeature constructor used by InkWell, InkResponse, and ThemeData.",
+      "docUrl": "https://api.flutter.devmaterial/InteractiveInkFeatureFactory-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "licensepage",
+      "name": "LicensePage",
+      "category": "L",
+      "summary": "A page that shows licenses for software used by the application.",
+      "docUrl": "https://api.flutter.devmaterial/LicensePage-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "linearprogressindicator",
+      "name": "LinearProgressIndicator",
+      "category": "L",
+      "summary": "A Material Design linear progress indicator, also known as a progress bar.",
+      "docUrl": "https://api.flutter.devmaterial/LinearProgressIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "listtile",
+      "name": "ListTile",
+      "category": "L",
+      "summary": "A single fixed-height row that typically contains some text as well as a leading or trailing icon.",
+      "docUrl": "https://api.flutter.devmaterial/ListTile-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "listtiletheme",
+      "name": "ListTileTheme",
+      "category": "L",
+      "summary": "An inherited widget that defines color and style parameters for ListTiles in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/ListTileTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "listtilethemedata",
+      "name": "ListTileThemeData",
+      "category": "L",
+      "summary": "Used with ListTileTheme to define default property values for descendant ListTile widgets, as well as classes that build ListTiles, like CheckboxListTile, RadioListTile, and SwitchListTile.",
+      "docUrl": "https://api.flutter.devmaterial/ListTileThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "magnifier",
+      "name": "Magnifier",
+      "category": "M",
+      "summary": "A Material-styled magnifying glass.",
+      "docUrl": "https://api.flutter.devmaterial/Magnifier-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "material",
+      "name": "Material",
+      "category": "M",
+      "summary": "A piece of material.",
+      "docUrl": "https://api.flutter.devmaterial/Material-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialaccentcolor",
+      "name": "MaterialAccentColor",
+      "category": "M",
+      "summary": "Defines a single accent color as well a swatch of four shades of the accent color.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialAccentColor-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialapp",
+      "name": "MaterialApp",
+      "category": "M",
+      "summary": "An application that uses Material Design.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialApp-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialbanner",
+      "name": "MaterialBanner",
+      "category": "M",
+      "summary": "A Material Design banner.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialBanner-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialbannertheme",
+      "name": "MaterialBannerTheme",
+      "category": "M",
+      "summary": "An inherited widget that defines the configuration for MaterialBanners in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialBannerTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialbannerthemedata",
+      "name": "MaterialBannerThemeData",
+      "category": "M",
+      "summary": "Defines the visual properties of MaterialBanner widgets.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialBannerThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialbasedcupertinothemedata",
+      "name": "MaterialBasedCupertinoThemeData",
+      "category": "M",
+      "summary": "A CupertinoThemeData that defers unspecified theme attributes to an upstream Material ThemeData.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialBasedCupertinoThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialbutton",
+      "name": "MaterialButton",
+      "category": "M",
+      "summary": "A utility class for building Material buttons that depend on the ambient ButtonTheme and Theme.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialcolor",
+      "name": "MaterialColor",
+      "category": "M",
+      "summary": "Defines a single color as well a color swatch with ten shades of the color.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialColor-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialgap",
+      "name": "MaterialGap",
+      "category": "M",
+      "summary": "A class that represents a gap within MergeableMaterial.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialGap-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialinkcontroller",
+      "name": "MaterialInkController",
+      "category": "M",
+      "summary": "An interface for creating InkSplashs and InkHighlights on a Material.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialInkController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materiallocalizations",
+      "name": "MaterialLocalizations",
+      "category": "M",
+      "summary": "Defines the localized resource values used by the Material widgets.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialLocalizations-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialpage",
+      "name": "MaterialPage",
+      "category": "M",
+      "summary": "A page that creates a material style PageRoute.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialPage-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialpageroute",
+      "name": "MaterialPageRoute",
+      "category": "M",
+      "summary": "A modal route that replaces the entire screen with a platform-adaptive transition.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialPageRoute-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialpointarctween",
+      "name": "MaterialPointArcTween",
+      "category": "M",
+      "summary": "A Tween that interpolates an Offset along a circular arc.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialPointArcTween-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialrectarctween",
+      "name": "MaterialRectArcTween",
+      "category": "M",
+      "summary": "A Tween that interpolates a Rect by having its opposite corners follow circular arcs.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialRectArcTween-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialrectcenterarctween",
+      "name": "MaterialRectCenterArcTween",
+      "category": "M",
+      "summary": "A Tween that interpolates a Rect by moving it along a circular arc from begin's Rect.center to end's Rect.center while interpolating the rectangle's width and height.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialRectCenterArcTween-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialscrollbehavior",
+      "name": "MaterialScrollBehavior",
+      "category": "M",
+      "summary": "Describes how Scrollable widgets behave for MaterialApps.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialScrollBehavior-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialslice",
+      "name": "MaterialSlice",
+      "category": "M",
+      "summary": "A class that can be used as a child to MergeableMaterial. It is a slice of Material that animates merging with other slices.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialSlice-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialstateoutlineinputborder",
+      "name": "MaterialStateOutlineInputBorder",
+      "category": "M",
+      "summary": "Defines a OutlineInputBorder that is also a MaterialStateProperty.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialStateOutlineInputBorder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialstateunderlineinputborder",
+      "name": "MaterialStateUnderlineInputBorder",
+      "category": "M",
+      "summary": "Defines a UnderlineInputBorder that is also a MaterialStateProperty.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialStateUnderlineInputBorder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialtextselectioncontrols",
+      "name": "MaterialTextSelectionControls",
+      "category": "M",
+      "summary": "Android Material styled text selection controls.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialTextSelectionControls-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "materialtextselectionhandlecontrols",
+      "name": "MaterialTextSelectionHandleControls",
+      "category": "M",
+      "summary": "Android Material styled text selection handle controls.",
+      "docUrl": "https://api.flutter.devmaterial/MaterialTextSelectionHandleControls-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menuacceleratorcallbackbinding",
+      "name": "MenuAcceleratorCallbackBinding",
+      "category": "M",
+      "summary": "An InheritedWidget that provides a descendant MenuAcceleratorLabel with the function to invoke when the accelerator is pressed.",
+      "docUrl": "https://api.flutter.devmaterial/MenuAcceleratorCallbackBinding-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menuacceleratorlabel",
+      "name": "MenuAcceleratorLabel",
+      "category": "M",
+      "summary": "A widget that draws the label text for a menu item (typically a MenuItemButton or SubmenuButton) and renders its child with information about the currently active keyboard accelerator.",
+      "docUrl": "https://api.flutter.devmaterial/MenuAcceleratorLabel-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menuanchor",
+      "name": "MenuAnchor",
+      "category": "M",
+      "summary": "A widget used to mark the \"anchor\" for a set of submenus, defining the rectangle used to position the menu, which can be done either with an explicit location, or with an alignment.",
+      "docUrl": "https://api.flutter.devmaterial/MenuAnchor-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menubar",
+      "name": "MenuBar",
+      "category": "M",
+      "summary": "A menu bar that manages cascading child menus.",
+      "docUrl": "https://api.flutter.devmaterial/MenuBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menubartheme",
+      "name": "MenuBarTheme",
+      "category": "M",
+      "summary": "An inherited widget that defines the configuration for the MenuBar widgets in this widget's descendants.",
+      "docUrl": "https://api.flutter.devmaterial/MenuBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menubarthemedata",
+      "name": "MenuBarThemeData",
+      "category": "M",
+      "summary": "A data class that MenuBarTheme uses to define the visual properties of MenuBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/MenuBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menubuttontheme",
+      "name": "MenuButtonTheme",
+      "category": "M",
+      "summary": "Overrides the default ButtonStyle of its MenuItemButton and SubmenuButton descendants.",
+      "docUrl": "https://api.flutter.devmaterial/MenuButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menubuttonthemedata",
+      "name": "MenuButtonThemeData",
+      "category": "M",
+      "summary": "A ButtonStyle theme that overrides the default appearance of SubmenuButtons and MenuItemButtons when it's used with a MenuButtonTheme or with the overall Theme's ThemeData.menuTheme.",
+      "docUrl": "https://api.flutter.devmaterial/MenuButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menuitembutton",
+      "name": "MenuItemButton",
+      "category": "M",
+      "summary": "A button for use in a MenuBar, in a menu created with MenuAnchor, or on its own, that can be activated by click or keyboard navigation.",
+      "docUrl": "https://api.flutter.devmaterial/MenuItemButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menustyle",
+      "name": "MenuStyle",
+      "category": "M",
+      "summary": "The visual properties that menus have in common.",
+      "docUrl": "https://api.flutter.devmaterial/MenuStyle-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menutheme",
+      "name": "MenuTheme",
+      "category": "M",
+      "summary": "An inherited widget that defines the configuration in this widget's descendants for menus created by the SubmenuButton, MenuBar, or MenuAnchor widgets.",
+      "docUrl": "https://api.flutter.devmaterial/MenuTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "menuthemedata",
+      "name": "MenuThemeData",
+      "category": "M",
+      "summary": "Defines the configuration of the submenus created by the SubmenuButton, MenuBar, or MenuAnchor widgets.",
+      "docUrl": "https://api.flutter.devmaterial/MenuThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "mergeablematerial",
+      "name": "MergeableMaterial",
+      "category": "M",
+      "summary": "Displays a list of MergeableMaterialItem children. The list contains MaterialSlice items whose boundaries are either \"merged\" with adjacent items or separated by a MaterialGap. The children are distributed along the given mainAxis in the same way as the children of a ListBody. When the list of children changes, gaps are automatically animated open or closed as needed.",
+      "docUrl": "https://api.flutter.devmaterial/MergeableMaterial-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "mergeablematerialitem",
+      "name": "MergeableMaterialItem",
+      "category": "M",
+      "summary": "The base type for MaterialSlice and MaterialGap.",
+      "docUrl": "https://api.flutter.devmaterial/MergeableMaterialItem-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "modalbottomsheetroute",
+      "name": "ModalBottomSheetRoute",
+      "category": "M",
+      "summary": "A route that represents a Material Design modal bottom sheet.",
+      "docUrl": "https://api.flutter.devmaterial/ModalBottomSheetRoute-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationbar",
+      "name": "NavigationBar",
+      "category": "N",
+      "summary": "Material 3 Navigation Bar component.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationbartheme",
+      "name": "NavigationBarTheme",
+      "category": "N",
+      "summary": "An inherited widget that defines visual properties for NavigationBars and NavigationDestinations in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationbarthemedata",
+      "name": "NavigationBarThemeData",
+      "category": "N",
+      "summary": "Defines default property values for descendant NavigationBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationdestination",
+      "name": "NavigationDestination",
+      "category": "N",
+      "summary": "A Material 3 NavigationBar destination.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationDestination-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationdrawer",
+      "name": "NavigationDrawer",
+      "category": "N",
+      "summary": "Material Design Navigation Drawer component.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationDrawer-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationdrawerdestination",
+      "name": "NavigationDrawerDestination",
+      "category": "N",
+      "summary": "A Material Design NavigationDrawer destination.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationDrawerDestination-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationdrawertheme",
+      "name": "NavigationDrawerTheme",
+      "category": "N",
+      "summary": "An inherited widget that defines visual properties for NavigationDrawers and NavigationDestinations in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationDrawerTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationdrawerthemedata",
+      "name": "NavigationDrawerThemeData",
+      "category": "N",
+      "summary": "Defines default property values for descendant NavigationDrawer widgets.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationDrawerThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationindicator",
+      "name": "NavigationIndicator",
+      "category": "N",
+      "summary": "Selection Indicator for the Material 3 NavigationBar and NavigationRail components.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationrail",
+      "name": "NavigationRail",
+      "category": "N",
+      "summary": "A Material Design widget that is meant to be displayed at the left or right of an app to navigate between a small number of views, typically between three and five.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationRail-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationraildestination",
+      "name": "NavigationRailDestination",
+      "category": "N",
+      "summary": "Defines a NavigationRail button that represents one \"destination\" view.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationRailDestination-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationrailtheme",
+      "name": "NavigationRailTheme",
+      "category": "N",
+      "summary": "An inherited widget that defines visual properties for NavigationRails and NavigationRailDestinations in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationRailTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "navigationrailthemedata",
+      "name": "NavigationRailThemeData",
+      "category": "N",
+      "summary": "Defines default property values for descendant NavigationRail widgets.",
+      "docUrl": "https://api.flutter.devmaterial/NavigationRailThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "nosplash",
+      "name": "NoSplash",
+      "category": "N",
+      "summary": "An InteractiveInkFeature that doesn't paint a splash.",
+      "docUrl": "https://api.flutter.devmaterial/NoSplash-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "openupwardspagetransitionsbuilder",
+      "name": "OpenUpwardsPageTransitionsBuilder",
+      "category": "O",
+      "summary": "Used by PageTransitionsTheme to define a vertical MaterialPageRoute page transition animation that looks like the default page transition used on Android P.",
+      "docUrl": "https://api.flutter.devmaterial/OpenUpwardsPageTransitionsBuilder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "outlinedbutton",
+      "name": "OutlinedButton",
+      "category": "O",
+      "summary": "A Material Design \"Outlined Button\"; essentially a TextButton with an outlined border.",
+      "docUrl": "https://api.flutter.devmaterial/OutlinedButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "outlinedbuttontheme",
+      "name": "OutlinedButtonTheme",
+      "category": "O",
+      "summary": "Overrides the default ButtonStyle of its OutlinedButton descendants.",
+      "docUrl": "https://api.flutter.devmaterial/OutlinedButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "outlinedbuttonthemedata",
+      "name": "OutlinedButtonThemeData",
+      "category": "O",
+      "summary": "A ButtonStyle that overrides the default appearance of OutlinedButtons when it's used with OutlinedButtonTheme or with the overall Theme's ThemeData.outlinedButtonTheme.",
+      "docUrl": "https://api.flutter.devmaterial/OutlinedButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "outlineinputborder",
+      "name": "OutlineInputBorder",
+      "category": "O",
+      "summary": "Draws a rounded rectangle around an InputDecorator's container.",
+      "docUrl": "https://api.flutter.devmaterial/OutlineInputBorder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "paddlerangeslidervalueindicatorshape",
+      "name": "PaddleRangeSliderValueIndicatorShape",
+      "category": "P",
+      "summary": "A variant shape of a RangeSlider's value indicators. The value indicator is in the shape of an upside-down pear.",
+      "docUrl": "https://api.flutter.devmaterial/PaddleRangeSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "paddleslidervalueindicatorshape",
+      "name": "PaddleSliderValueIndicatorShape",
+      "category": "P",
+      "summary": "A variant shape of a Slider's value indicator . The value indicator is in the shape of an upside-down pear.",
+      "docUrl": "https://api.flutter.devmaterial/PaddleSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "pagetransitionstheme",
+      "name": "PageTransitionsTheme",
+      "category": "P",
+      "summary": "Defines the page transition animations used by MaterialPageRoute for different TargetPlatforms.",
+      "docUrl": "https://api.flutter.devmaterial/PageTransitionsTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "paginateddatatable",
+      "name": "PaginatedDataTable",
+      "category": "P",
+      "summary": "A table that follows the Material 2 design specification, using multiple pages to display data.",
+      "docUrl": "https://api.flutter.devmaterial/PaginatedDataTable-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "paginateddatatablestate",
+      "name": "PaginatedDataTableState",
+      "category": "P",
+      "summary": "Holds the state of a PaginatedDataTable.",
+      "docUrl": "https://api.flutter.devmaterial/PaginatedDataTableState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "persistentbottomsheetcontroller",
+      "name": "PersistentBottomSheetController",
+      "category": "P",
+      "summary": "A ScaffoldFeatureController for standard bottom sheets.",
+      "docUrl": "https://api.flutter.devmaterial/PersistentBottomSheetController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "platformadaptiveicons",
+      "name": "PlatformAdaptiveIcons",
+      "category": "P",
+      "summary": "A set of platform-adaptive Material Design icons.",
+      "docUrl": "https://api.flutter.devmaterial/PlatformAdaptiveIcons-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenubutton",
+      "name": "PopupMenuButton",
+      "category": "P",
+      "summary": "Displays a menu when pressed and calls onSelected when the menu is dismissed because an item was selected. The value passed to onSelected is the value of the selected menu item.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenubuttonstate",
+      "name": "PopupMenuButtonState",
+      "category": "P",
+      "summary": "The State for a PopupMenuButton.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuButtonState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenudivider",
+      "name": "PopupMenuDivider",
+      "category": "P",
+      "summary": "A horizontal divider in a Material Design popup menu.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuDivider-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenuentry",
+      "name": "PopupMenuEntry",
+      "category": "P",
+      "summary": "A base class for entries in a Material Design popup menu.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuEntry-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenuitem",
+      "name": "PopupMenuItem",
+      "category": "P",
+      "summary": "An item in a Material Design popup menu.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuItem-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenuitemstate",
+      "name": "PopupMenuItemState",
+      "category": "P",
+      "summary": "The State for PopupMenuItem subclasses.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuItemState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenutheme",
+      "name": "PopupMenuTheme",
+      "category": "P",
+      "summary": "An inherited widget that defines the configuration for popup menus in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "popupmenuthemedata",
+      "name": "PopupMenuThemeData",
+      "category": "P",
+      "summary": "Defines the visual properties of the routes used to display popup menus as well as PopupMenuItem and PopupMenuDivider widgets.",
+      "docUrl": "https://api.flutter.devmaterial/PopupMenuThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "predictivebackfullscreenpagetransitionsbuilder",
+      "name": "PredictiveBackFullscreenPageTransitionsBuilder",
+      "category": "P",
+      "summary": "Used by PageTransitionsTheme to define a MaterialPageRoute page transition animation that looks like Android's Full Screen page transition.",
+      "docUrl": "https://api.flutter.devmaterial/PredictiveBackFullscreenPageTransitionsBuilder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "predictivebackpagetransitionsbuilder",
+      "name": "PredictiveBackPageTransitionsBuilder",
+      "category": "P",
+      "summary": "Used by PageTransitionsTheme to define a MaterialPageRoute page transition animation that looks like the default page transition used on Android U and above when using predictive back.",
+      "docUrl": "https://api.flutter.devmaterial/PredictiveBackPageTransitionsBuilder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "progressindicator",
+      "name": "ProgressIndicator",
+      "category": "P",
+      "summary": "A base class for Material Design progress indicators.",
+      "docUrl": "https://api.flutter.devmaterial/ProgressIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "progressindicatortheme",
+      "name": "ProgressIndicatorTheme",
+      "category": "P",
+      "summary": "An inherited widget that defines the configuration for ProgressIndicators in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/ProgressIndicatorTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "progressindicatorthemedata",
+      "name": "ProgressIndicatorThemeData",
+      "category": "P",
+      "summary": "Defines the visual properties of ProgressIndicator widgets.",
+      "docUrl": "https://api.flutter.devmaterial/ProgressIndicatorThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "radio",
+      "name": "Radio",
+      "category": "R",
+      "summary": "A Material Design radio button.",
+      "docUrl": "https://api.flutter.devmaterial/Radio-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "radiolisttile",
+      "name": "RadioListTile",
+      "category": "R",
+      "summary": "A ListTile with a Radio. In other words, a radio button with a label.",
+      "docUrl": "https://api.flutter.devmaterial/RadioListTile-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "radiomenubutton",
+      "name": "RadioMenuButton",
+      "category": "R",
+      "summary": "A menu item that combines a Radio widget with a MenuItemButton.",
+      "docUrl": "https://api.flutter.devmaterial/RadioMenuButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "radiotheme",
+      "name": "RadioTheme",
+      "category": "R",
+      "summary": "Applies a radio theme to descendant Radio widgets.",
+      "docUrl": "https://api.flutter.devmaterial/RadioTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "radiothemedata",
+      "name": "RadioThemeData",
+      "category": "R",
+      "summary": "Defines default property values for descendant Radio widgets.",
+      "docUrl": "https://api.flutter.devmaterial/RadioThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rangelabels",
+      "name": "RangeLabels",
+      "category": "R",
+      "summary": "Object for setting range slider label values that appear in the value indicator for each thumb.",
+      "docUrl": "https://api.flutter.devmaterial/RangeLabels-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rangeslider",
+      "name": "RangeSlider",
+      "category": "R",
+      "summary": "A Material Design range slider.",
+      "docUrl": "https://api.flutter.devmaterial/RangeSlider-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rangesliderthumbshape",
+      "name": "RangeSliderThumbShape",
+      "category": "R",
+      "summary": "Base class for RangeSlider thumb shapes.",
+      "docUrl": "https://api.flutter.devmaterial/RangeSliderThumbShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rangeslidertickmarkshape",
+      "name": "RangeSliderTickMarkShape",
+      "category": "R",
+      "summary": "Base class for RangeSlider tick mark shapes.",
+      "docUrl": "https://api.flutter.devmaterial/RangeSliderTickMarkShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rangeslidertrackshape",
+      "name": "RangeSliderTrackShape",
+      "category": "R",
+      "summary": "Base class for RangeSlider track shapes.",
+      "docUrl": "https://api.flutter.devmaterial/RangeSliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rangeslidervalueindicatorshape",
+      "name": "RangeSliderValueIndicatorShape",
+      "category": "R",
+      "summary": "Base class for RangeSlider value indicator shapes.",
+      "docUrl": "https://api.flutter.devmaterial/RangeSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rangevalues",
+      "name": "RangeValues",
+      "category": "R",
+      "summary": "Object for representing range slider thumb values.",
+      "docUrl": "https://api.flutter.devmaterial/RangeValues-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rawchip",
+      "name": "RawChip",
+      "category": "R",
+      "summary": "A raw Material Design chip.",
+      "docUrl": "https://api.flutter.devmaterial/RawChip-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rawmaterialbutton",
+      "name": "RawMaterialButton",
+      "category": "R",
+      "summary": "Creates a button based on Semantics, Material, and InkWell widgets.",
+      "docUrl": "https://api.flutter.devmaterial/RawMaterialButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rectangularrangeslidertrackshape",
+      "name": "RectangularRangeSliderTrackShape",
+      "category": "R",
+      "summary": "A RangeSlider track that's a simple rectangle.",
+      "docUrl": "https://api.flutter.devmaterial/RectangularRangeSliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rectangularrangeslidervalueindicatorshape",
+      "name": "RectangularRangeSliderValueIndicatorShape",
+      "category": "R",
+      "summary": "The default shape of a RangeSlider's value indicators.",
+      "docUrl": "https://api.flutter.devmaterial/RectangularRangeSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rectangularslidertrackshape",
+      "name": "RectangularSliderTrackShape",
+      "category": "R",
+      "summary": "A Slider track that's a simple rectangle.",
+      "docUrl": "https://api.flutter.devmaterial/RectangularSliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "rectangularslidervalueindicatorshape",
+      "name": "RectangularSliderValueIndicatorShape",
+      "category": "R",
+      "summary": "The default shape of a Slider's value indicator.",
+      "docUrl": "https://api.flutter.devmaterial/RectangularSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "refreshindicator",
+      "name": "RefreshIndicator",
+      "category": "R",
+      "summary": "A widget that supports the Material \"swipe to refresh\" idiom.",
+      "docUrl": "https://api.flutter.devmaterial/RefreshIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "refreshindicatorstate",
+      "name": "RefreshIndicatorState",
+      "category": "R",
+      "summary": "Contains the state for a RefreshIndicator. This class can be used to programmatically show the refresh indicator, see the show method.",
+      "docUrl": "https://api.flutter.devmaterial/RefreshIndicatorState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "refreshprogressindicator",
+      "name": "RefreshProgressIndicator",
+      "category": "R",
+      "summary": "An indicator for the progress of refreshing the contents of a widget.",
+      "docUrl": "https://api.flutter.devmaterial/RefreshProgressIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "reorderablelistview",
+      "name": "ReorderableListView",
+      "category": "R",
+      "summary": "A list whose items the user can interactively reorder by dragging.",
+      "docUrl": "https://api.flutter.devmaterial/ReorderableListView-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "restorabletimeofday",
+      "name": "RestorableTimeOfDay",
+      "category": "R",
+      "summary": "A RestorableValue that knows how to save and restore TimeOfDay.",
+      "docUrl": "https://api.flutter.devmaterial/RestorableTimeOfDay-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundedrectrangeslidertrackshape",
+      "name": "RoundedRectRangeSliderTrackShape",
+      "category": "R",
+      "summary": "The default shape of a RangeSlider's track.",
+      "docUrl": "https://api.flutter.devmaterial/RoundedRectRangeSliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundedrectrangeslidervalueindicatorshape",
+      "name": "RoundedRectRangeSliderValueIndicatorShape",
+      "category": "R",
+      "summary": "The rounded rectangle shape of a RangeSlider's value indicators.",
+      "docUrl": "https://api.flutter.devmaterial/RoundedRectRangeSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundedrectslidertrackshape",
+      "name": "RoundedRectSliderTrackShape",
+      "category": "R",
+      "summary": "The default shape of a Slider's track.",
+      "docUrl": "https://api.flutter.devmaterial/RoundedRectSliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundedrectslidervalueindicatorshape",
+      "name": "RoundedRectSliderValueIndicatorShape",
+      "category": "R",
+      "summary": "The rounded rectangle shape of a Slider's value indicator.",
+      "docUrl": "https://api.flutter.devmaterial/RoundedRectSliderValueIndicatorShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundrangesliderthumbshape",
+      "name": "RoundRangeSliderThumbShape",
+      "category": "R",
+      "summary": "The default shape of a RangeSlider's thumbs.",
+      "docUrl": "https://api.flutter.devmaterial/RoundRangeSliderThumbShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundrangeslidertickmarkshape",
+      "name": "RoundRangeSliderTickMarkShape",
+      "category": "R",
+      "summary": "The default shape of each RangeSlider tick mark.",
+      "docUrl": "https://api.flutter.devmaterial/RoundRangeSliderTickMarkShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundslideroverlayshape",
+      "name": "RoundSliderOverlayShape",
+      "category": "R",
+      "summary": "The default shape of a Slider's thumb overlay.",
+      "docUrl": "https://api.flutter.devmaterial/RoundSliderOverlayShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundsliderthumbshape",
+      "name": "RoundSliderThumbShape",
+      "category": "R",
+      "summary": "The default shape of a Slider's thumb.",
+      "docUrl": "https://api.flutter.devmaterial/RoundSliderThumbShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "roundslidertickmarkshape",
+      "name": "RoundSliderTickMarkShape",
+      "category": "R",
+      "summary": "The default shape of each Slider tick mark.",
+      "docUrl": "https://api.flutter.devmaterial/RoundSliderTickMarkShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scaffold",
+      "name": "Scaffold",
+      "category": "S",
+      "summary": "Implements the basic Material Design visual layout structure.",
+      "docUrl": "https://api.flutter.devmaterial/Scaffold-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scaffoldfeaturecontroller",
+      "name": "ScaffoldFeatureController",
+      "category": "S",
+      "summary": "An interface for controlling a feature of a Scaffold.",
+      "docUrl": "https://api.flutter.devmaterial/ScaffoldFeatureController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scaffoldgeometry",
+      "name": "ScaffoldGeometry",
+      "category": "S",
+      "summary": "Geometry information for Scaffold components after layout is finished.",
+      "docUrl": "https://api.flutter.devmaterial/ScaffoldGeometry-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scaffoldmessenger",
+      "name": "ScaffoldMessenger",
+      "category": "S",
+      "summary": "Manages SnackBars and MaterialBanners for descendant Scaffolds.",
+      "docUrl": "https://api.flutter.devmaterial/ScaffoldMessenger-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scaffoldmessengerstate",
+      "name": "ScaffoldMessengerState",
+      "category": "S",
+      "summary": "State for a ScaffoldMessenger.",
+      "docUrl": "https://api.flutter.devmaterial/ScaffoldMessengerState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scaffoldprelayoutgeometry",
+      "name": "ScaffoldPrelayoutGeometry",
+      "category": "S",
+      "summary": "The geometry of the Scaffold after all its contents have been laid out except the FloatingActionButton.",
+      "docUrl": "https://api.flutter.devmaterial/ScaffoldPrelayoutGeometry-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scaffoldstate",
+      "name": "ScaffoldState",
+      "category": "S",
+      "summary": "State for a Scaffold.",
+      "docUrl": "https://api.flutter.devmaterial/ScaffoldState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scrollbar",
+      "name": "Scrollbar",
+      "category": "S",
+      "summary": "A Material Design scrollbar.",
+      "docUrl": "https://api.flutter.devmaterial/Scrollbar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scrollbartheme",
+      "name": "ScrollbarTheme",
+      "category": "S",
+      "summary": "Applies a scrollbar theme to descendant Scrollbar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/ScrollbarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "scrollbarthemedata",
+      "name": "ScrollbarThemeData",
+      "category": "S",
+      "summary": "Defines default property values for descendant Scrollbar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/ScrollbarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchanchor",
+      "name": "SearchAnchor",
+      "category": "S",
+      "summary": "Manages a \"search view\" route that allows the user to select one of the suggested completions for a search query.",
+      "docUrl": "https://api.flutter.devmaterial/SearchAnchor-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchbar",
+      "name": "SearchBar",
+      "category": "S",
+      "summary": "A Material Design search bar.",
+      "docUrl": "https://api.flutter.devmaterial/SearchBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchbartheme",
+      "name": "SearchBarTheme",
+      "category": "S",
+      "summary": "Applies a search bar theme to descendant SearchBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/SearchBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchbarthemedata",
+      "name": "SearchBarThemeData",
+      "category": "S",
+      "summary": "Defines default property values for descendant SearchBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/SearchBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchcontroller",
+      "name": "SearchController",
+      "category": "S",
+      "summary": "A controller to manage a search view created by SearchAnchor.",
+      "docUrl": "https://api.flutter.devmaterial/SearchController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchdelegate",
+      "name": "SearchDelegate",
+      "category": "S",
+      "summary": "Delegate for showSearch to define the content of the search page.",
+      "docUrl": "https://api.flutter.devmaterial/SearchDelegate-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchviewtheme",
+      "name": "SearchViewTheme",
+      "category": "S",
+      "summary": "An inherited widget that defines the configuration in this widget's descendants for search view created by the SearchAnchor widget.",
+      "docUrl": "https://api.flutter.devmaterial/SearchViewTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "searchviewthemedata",
+      "name": "SearchViewThemeData",
+      "category": "S",
+      "summary": "Defines the configuration of the search views created by the SearchAnchor widget.",
+      "docUrl": "https://api.flutter.devmaterial/SearchViewThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "segmentedbutton",
+      "name": "SegmentedButton",
+      "category": "S",
+      "summary": "A Material button that allows the user to select from limited set of options.",
+      "docUrl": "https://api.flutter.devmaterial/SegmentedButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "segmentedbuttonstate",
+      "name": "SegmentedButtonState",
+      "category": "S",
+      "summary": "State for SegmentedButton.",
+      "docUrl": "https://api.flutter.devmaterial/SegmentedButtonState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "segmentedbuttontheme",
+      "name": "SegmentedButtonTheme",
+      "category": "S",
+      "summary": "An inherited widget that defines the visual properties for SegmentedButtons in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/SegmentedButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "segmentedbuttonthemedata",
+      "name": "SegmentedButtonThemeData",
+      "category": "S",
+      "summary": "Overrides the default values of visual properties for descendant SegmentedButton widgets.",
+      "docUrl": "https://api.flutter.devmaterial/SegmentedButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "selectablechipattributes",
+      "name": "SelectableChipAttributes",
+      "category": "S",
+      "summary": "An interface for Material Design chips that can be selected.",
+      "docUrl": "https://api.flutter.devmaterial/SelectableChipAttributes-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "selectabletext",
+      "name": "SelectableText",
+      "category": "S",
+      "summary": "A run of selectable text with a single style.",
+      "docUrl": "https://api.flutter.devmaterial/SelectableText-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "selectionarea",
+      "name": "SelectionArea",
+      "category": "S",
+      "summary": "A widget that introduces an area for user selections with adaptive selection controls.",
+      "docUrl": "https://api.flutter.devmaterial/SelectionArea-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "selectionareastate",
+      "name": "SelectionAreaState",
+      "category": "S",
+      "summary": "State for a SelectionArea.",
+      "docUrl": "https://api.flutter.devmaterial/SelectionAreaState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "shapebordertween",
+      "name": "ShapeBorderTween",
+      "category": "S",
+      "summary": "An interpolation between two ShapeBorders.",
+      "docUrl": "https://api.flutter.devmaterial/ShapeBorderTween-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "simpledialog",
+      "name": "SimpleDialog",
+      "category": "S",
+      "summary": "A simple Material Design dialog.",
+      "docUrl": "https://api.flutter.devmaterial/SimpleDialog-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "simpledialogoption",
+      "name": "SimpleDialogOption",
+      "category": "S",
+      "summary": "An option used in a SimpleDialog.",
+      "docUrl": "https://api.flutter.devmaterial/SimpleDialogOption-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "slider",
+      "name": "Slider",
+      "category": "S",
+      "summary": "A Material Design slider.",
+      "docUrl": "https://api.flutter.devmaterial/Slider-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "slidercomponentshape",
+      "name": "SliderComponentShape",
+      "category": "S",
+      "summary": "Base class for slider thumb, thumb overlay, and value indicator shapes.",
+      "docUrl": "https://api.flutter.devmaterial/SliderComponentShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "slidertheme",
+      "name": "SliderTheme",
+      "category": "S",
+      "summary": "Applies a slider theme to descendant Slider widgets.",
+      "docUrl": "https://api.flutter.devmaterial/SliderTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "sliderthemedata",
+      "name": "SliderThemeData",
+      "category": "S",
+      "summary": "Holds the color, shape, and typography values for a Material Design slider theme.",
+      "docUrl": "https://api.flutter.devmaterial/SliderThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "slidertickmarkshape",
+      "name": "SliderTickMarkShape",
+      "category": "S",
+      "summary": "Base class for Slider tick mark shapes.",
+      "docUrl": "https://api.flutter.devmaterial/SliderTickMarkShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "slidertrackshape",
+      "name": "SliderTrackShape",
+      "category": "S",
+      "summary": "Base class for slider track shapes.",
+      "docUrl": "https://api.flutter.devmaterial/SliderTrackShape-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "sliverappbar",
+      "name": "SliverAppBar",
+      "category": "S",
+      "summary": "A Material Design app bar that integrates with a CustomScrollView.",
+      "docUrl": "https://api.flutter.devmaterial/SliverAppBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "snackbar",
+      "name": "SnackBar",
+      "category": "S",
+      "summary": "A lightweight message with an optional action which briefly displays at the bottom of the screen.",
+      "docUrl": "https://api.flutter.devmaterial/SnackBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "snackbaraction",
+      "name": "SnackBarAction",
+      "category": "S",
+      "summary": "A button for a SnackBar, known as an \"action\".",
+      "docUrl": "https://api.flutter.devmaterial/SnackBarAction-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "snackbarthemedata",
+      "name": "SnackBarThemeData",
+      "category": "S",
+      "summary": "Customizes default property values for SnackBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/SnackBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "spellchecksuggestionstoolbar",
+      "name": "SpellCheckSuggestionsToolbar",
+      "category": "S",
+      "summary": "The default spell check suggestions toolbar for Android.",
+      "docUrl": "https://api.flutter.devmaterial/SpellCheckSuggestionsToolbar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "spellchecksuggestionstoolbarlayoutdelegate",
+      "name": "SpellCheckSuggestionsToolbarLayoutDelegate",
+      "category": "S",
+      "summary": "Positions the toolbar below anchor or adjusts it higher to fit above the bottom view insets, if applicable.",
+      "docUrl": "https://api.flutter.devmaterial/SpellCheckSuggestionsToolbarLayoutDelegate-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "standardfablocation",
+      "name": "StandardFabLocation",
+      "category": "S",
+      "summary": "A base class that simplifies building FloatingActionButtonLocations when used with mixins FabTopOffsetY, FabFloatOffsetY, FabDockedOffsetY, FabStartOffsetX, FabCenterOffsetX, FabEndOffsetX, and FabMiniOffsetAdjustment.",
+      "docUrl": "https://api.flutter.devmaterial/StandardFabLocation-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "step",
+      "name": "Step",
+      "category": "S",
+      "summary": "A material step used in Stepper. The step can have a title and subtitle, an icon within its circle, some content and a state that governs its styling.",
+      "docUrl": "https://api.flutter.devmaterial/Step-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "stepper",
+      "name": "Stepper",
+      "category": "S",
+      "summary": "A material stepper widget that displays progress through a sequence of steps. Steppers are particularly useful in the case of forms where one step requires the completion of another one, or where multiple steps need to be completed in order to submit the whole form.",
+      "docUrl": "https://api.flutter.devmaterial/Stepper-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "stepstyle",
+      "name": "StepStyle",
+      "category": "S",
+      "summary": "This class is used to override the default visual properties of Step widgets within a Stepper.",
+      "docUrl": "https://api.flutter.devmaterial/StepStyle-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "submenubutton",
+      "name": "SubmenuButton",
+      "category": "S",
+      "summary": "A menu button that displays a cascading menu.",
+      "docUrl": "https://api.flutter.devmaterial/SubmenuButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "switch",
+      "name": "Switch",
+      "category": "S",
+      "summary": "A Material Design switch.",
+      "docUrl": "https://api.flutter.devmaterial/Switch-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "switchlisttile",
+      "name": "SwitchListTile",
+      "category": "S",
+      "summary": "A ListTile with a Switch. In other words, a switch with a label.",
+      "docUrl": "https://api.flutter.devmaterial/SwitchListTile-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "switchtheme",
+      "name": "SwitchTheme",
+      "category": "S",
+      "summary": "Applies a switch theme to descendant Switch widgets.",
+      "docUrl": "https://api.flutter.devmaterial/SwitchTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "switchthemedata",
+      "name": "SwitchThemeData",
+      "category": "S",
+      "summary": "Defines default property values for descendant Switch widgets.",
+      "docUrl": "https://api.flutter.devmaterial/SwitchThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tab",
+      "name": "Tab",
+      "category": "T",
+      "summary": "A Material Design TabBar tab.",
+      "docUrl": "https://api.flutter.devmaterial/Tab-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tabbar",
+      "name": "TabBar",
+      "category": "T",
+      "summary": "A Material Design primary tab bar.",
+      "docUrl": "https://api.flutter.devmaterial/TabBar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tabbartheme",
+      "name": "TabBarTheme",
+      "category": "T",
+      "summary": "Defines a theme for TabBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/TabBarTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tabbarthemedata",
+      "name": "TabBarThemeData",
+      "category": "T",
+      "summary": "Defines default property values for descendant TabBar widgets.",
+      "docUrl": "https://api.flutter.devmaterial/TabBarThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tabbarview",
+      "name": "TabBarView",
+      "category": "T",
+      "summary": "A page view that displays the widget which corresponds to the currently selected tab.",
+      "docUrl": "https://api.flutter.devmaterial/TabBarView-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tabcontroller",
+      "name": "TabController",
+      "category": "T",
+      "summary": "Coordinates tab selection between a TabBar and a TabBarView.",
+      "docUrl": "https://api.flutter.devmaterial/TabController-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tablerowinkwell",
+      "name": "TableRowInkWell",
+      "category": "T",
+      "summary": "A rectangular area of a Material that responds to touch but clips its ink splashes to the current table row of the nearest table.",
+      "docUrl": "https://api.flutter.devmaterial/TableRowInkWell-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tabpageselector",
+      "name": "TabPageSelector",
+      "category": "T",
+      "summary": "Uses TabPageSelectorIndicator to display a row of small circular indicators, one per tab.",
+      "docUrl": "https://api.flutter.devmaterial/TabPageSelector-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tabpageselectorindicator",
+      "name": "TabPageSelectorIndicator",
+      "category": "T",
+      "summary": "Displays a single circle with the specified size, border style, border color and background colors.",
+      "docUrl": "https://api.flutter.devmaterial/TabPageSelectorIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tappablechipattributes",
+      "name": "TappableChipAttributes",
+      "category": "T",
+      "summary": "An interface for Material Design chips that can be tapped.",
+      "docUrl": "https://api.flutter.devmaterial/TappableChipAttributes-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textbutton",
+      "name": "TextButton",
+      "category": "T",
+      "summary": "A Material Design \"Text Button\".",
+      "docUrl": "https://api.flutter.devmaterial/TextButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textbuttontheme",
+      "name": "TextButtonTheme",
+      "category": "T",
+      "summary": "Overrides the default ButtonStyle of its TextButton descendants.",
+      "docUrl": "https://api.flutter.devmaterial/TextButtonTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textbuttonthemedata",
+      "name": "TextButtonThemeData",
+      "category": "T",
+      "summary": "A ButtonStyle that overrides the default appearance of TextButtons when it's used with TextButtonTheme or with the overall Theme's ThemeData.textButtonTheme.",
+      "docUrl": "https://api.flutter.devmaterial/TextButtonThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textfield",
+      "name": "TextField",
+      "category": "T",
+      "summary": "A Material Design text field.",
+      "docUrl": "https://api.flutter.devmaterial/TextField-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textformfield",
+      "name": "TextFormField",
+      "category": "T",
+      "summary": "A FormField that contains a TextField.",
+      "docUrl": "https://api.flutter.devmaterial/TextFormField-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textmagnifier",
+      "name": "TextMagnifier",
+      "category": "T",
+      "summary": "A Magnifier positioned by rules dictated by the native Android magnifier.",
+      "docUrl": "https://api.flutter.devmaterial/TextMagnifier-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textselectiontheme",
+      "name": "TextSelectionTheme",
+      "category": "T",
+      "summary": "An inherited widget that defines the appearance of text selection in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/TextSelectionTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textselectionthemedata",
+      "name": "TextSelectionThemeData",
+      "category": "T",
+      "summary": "Defines the visual properties needed for text selection in TextField and SelectableText widgets.",
+      "docUrl": "https://api.flutter.devmaterial/TextSelectionThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textselectiontoolbar",
+      "name": "TextSelectionToolbar",
+      "category": "T",
+      "summary": "A fully-functional Material-style text selection toolbar.",
+      "docUrl": "https://api.flutter.devmaterial/TextSelectionToolbar-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "textselectiontoolbartextbutton",
+      "name": "TextSelectionToolbarTextButton",
+      "category": "T",
+      "summary": "A button styled like a Material native Android text selection menu button.",
+      "docUrl": "https://api.flutter.devmaterial/TextSelectionToolbarTextButton-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "texttheme",
+      "name": "TextTheme",
+      "category": "T",
+      "summary": "Material design text theme.",
+      "docUrl": "https://api.flutter.devmaterial/TextTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "theme",
+      "name": "Theme",
+      "category": "T",
+      "summary": "Applies a theme to descendant widgets.",
+      "docUrl": "https://api.flutter.devmaterial/Theme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "themedata",
+      "name": "ThemeData",
+      "category": "T",
+      "summary": "Defines the configuration of the overall visual Theme for a MaterialApp or a widget subtree within the app.",
+      "docUrl": "https://api.flutter.devmaterial/ThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "themedatatween",
+      "name": "ThemeDataTween",
+      "category": "T",
+      "summary": "An interpolation between two ThemeDatas.",
+      "docUrl": "https://api.flutter.devmaterial/ThemeDataTween-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "themeextension",
+      "name": "ThemeExtension",
+      "category": "T",
+      "summary": "An interface that defines custom additions to a ThemeData object.",
+      "docUrl": "https://api.flutter.devmaterial/ThemeExtension-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "timeofday",
+      "name": "TimeOfDay",
+      "category": "T",
+      "summary": "A value representing a time during the day, independent of the date that day might fall on or the time zone.",
+      "docUrl": "https://api.flutter.devmaterial/TimeOfDay-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "timepickerdialog",
+      "name": "TimePickerDialog",
+      "category": "T",
+      "summary": "A Material Design time picker designed to appear inside a popup dialog.",
+      "docUrl": "https://api.flutter.devmaterial/TimePickerDialog-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "timepickertheme",
+      "name": "TimePickerTheme",
+      "category": "T",
+      "summary": "An inherited widget that defines the configuration for time pickers displayed using showTimePicker in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/TimePickerTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "timepickerthemedata",
+      "name": "TimePickerThemeData",
+      "category": "T",
+      "summary": "Defines the visual properties of the widget displayed with showTimePicker.",
+      "docUrl": "https://api.flutter.devmaterial/TimePickerThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "togglebuttons",
+      "name": "ToggleButtons",
+      "category": "T",
+      "summary": "A set of toggle buttons.",
+      "docUrl": "https://api.flutter.devmaterial/ToggleButtons-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "togglebuttonstheme",
+      "name": "ToggleButtonsTheme",
+      "category": "T",
+      "summary": "An inherited widget that defines color and border parameters for ToggleButtons in this widget's subtree.",
+      "docUrl": "https://api.flutter.devmaterial/ToggleButtonsTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "togglebuttonsthemedata",
+      "name": "ToggleButtonsThemeData",
+      "category": "T",
+      "summary": "Defines the color and border properties of ToggleButtons widgets.",
+      "docUrl": "https://api.flutter.devmaterial/ToggleButtonsThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tooltip",
+      "name": "Tooltip",
+      "category": "T",
+      "summary": "A Material Design tooltip.",
+      "docUrl": "https://api.flutter.devmaterial/Tooltip-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tooltipstate",
+      "name": "TooltipState",
+      "category": "T",
+      "summary": "Contains the state for a Tooltip.",
+      "docUrl": "https://api.flutter.devmaterial/TooltipState-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tooltiptheme",
+      "name": "TooltipTheme",
+      "category": "T",
+      "summary": "Applies a tooltip theme to descendant Tooltip widgets.",
+      "docUrl": "https://api.flutter.devmaterial/TooltipTheme-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tooltipthemedata",
+      "name": "TooltipThemeData",
+      "category": "T",
+      "summary": "Defines the visual properties of Tooltip widgets, a tooltip theme.",
+      "docUrl": "https://api.flutter.devmaterial/TooltipThemeData-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "tooltipvisibility",
+      "name": "TooltipVisibility",
+      "category": "T",
+      "summary": "Overrides the visibility of descendant Tooltip widgets.",
+      "docUrl": "https://api.flutter.devmaterial/TooltipVisibility-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "typography",
+      "name": "Typography",
+      "category": "T",
+      "summary": "The color and geometry TextThemes for Material apps.",
+      "docUrl": "https://api.flutter.devmaterial/Typography-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "underlineinputborder",
+      "name": "UnderlineInputBorder",
+      "category": "U",
+      "summary": "Draws a horizontal line at the bottom of an InputDecorator's container and defines the container's shape.",
+      "docUrl": "https://api.flutter.devmaterial/UnderlineInputBorder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "underlinetabindicator",
+      "name": "UnderlineTabIndicator",
+      "category": "U",
+      "summary": "Used with TabBar.indicator to draw a horizontal line below the selected tab.",
+      "docUrl": "https://api.flutter.devmaterial/UnderlineTabIndicator-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "useraccountsdrawerheader",
+      "name": "UserAccountsDrawerHeader",
+      "category": "U",
+      "summary": "A Material Design Drawer header that identifies the app's user.",
+      "docUrl": "https://api.flutter.devmaterial/UserAccountsDrawerHeader-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "verticaldivider",
+      "name": "VerticalDivider",
+      "category": "V",
+      "summary": "A thin vertical line, with padding on either side.",
+      "docUrl": "https://api.flutter.devmaterial/VerticalDivider-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "visualdensity",
+      "name": "VisualDensity",
+      "category": "V",
+      "summary": "Defines the visual density of user interface components.",
+      "docUrl": "https://api.flutter.devmaterial/VisualDensity-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "widgetstateinputborder",
+      "name": "WidgetStateInputBorder",
+      "category": "W",
+      "summary": "Defines an InputBorder that is also a WidgetStateProperty.",
+      "docUrl": "https://api.flutter.devmaterial/WidgetStateInputBorder-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "yearpicker",
+      "name": "YearPicker",
+      "category": "Y",
+      "summary": "A scrollable grid of years to allow picking a year.",
+      "docUrl": "https://api.flutter.devmaterial/YearPicker-class.html",
+      "kind": "class"
+    },
+    {
+      "id": "zoompagetransitionsbuilder",
+      "name": "ZoomPageTransitionsBuilder",
+      "category": "Z",
+      "summary": "Used by PageTransitionsTheme to define a zooming MaterialPageRoute page transition animation that looks like the default page transition used on Android Q.",
+      "docUrl": "https://api.flutter.devmaterial/ZoomPageTransitionsBuilder-class.html",
+      "kind": "class"
+    }
+  ]
+}
