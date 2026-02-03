@@ -33,7 +33,7 @@ def main() -> None:
             continue
         desc = re.sub(r"<[^>]+>", "", desc)
         desc = unescape(" ".join(desc.split()))
-        doc_url = href if href.startswith("http") else f"https://api.flutter.dev{href}"
+        doc_url = href if href.startswith("http") else f"https://api.flutter.dev/{href}"
         comp_id = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
         components.append(
             {

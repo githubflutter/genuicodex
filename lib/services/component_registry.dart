@@ -10,7 +10,9 @@ class ComponentRegistry {
   static const String _assetPath = 'assets/material_components.json';
 
   static Future<ComponentCatalog> loadCatalog() async {
-    final jsonString = await rootBundle.loadString(_assetPath);
+    final jsonString = await rootBundle
+        .loadString(_assetPath)
+        .timeout(const Duration(seconds: 8));
     final jsonMap = json.decode(jsonString) as Map<String, dynamic>;
     return ComponentCatalog.fromJson(jsonMap);
   }
